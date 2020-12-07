@@ -1,5 +1,7 @@
 
-### Hi there 👋 I'm Islam Alshiki
+<p align="center">
+  <h3>Hi there 👋 I'm Islam Alshiki </h3>
+</p>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Islam-alshiki&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
