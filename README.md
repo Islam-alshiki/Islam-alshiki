@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Islam-alshiki)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Islam-alshiki&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Islam-alshiki/Islam-alshiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
