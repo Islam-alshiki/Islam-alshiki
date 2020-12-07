@@ -1,7 +1,20 @@
 
-<p align="center">
-  <h3>Hi there 👋 I'm Islam Alshiki </h3>
-</p>
+<h3 align="center">Hi there 👋 I'm Islam Alshiki </h3>
+<hr>
+<!--
+<h5 align="center">
+  Full-stack developer
+  <br>
+  Mobile: 2/5
+  <br>
+  Web:    4/5
+  <br>
+  Desktop 5/5
+  <br>
+</h5>
+<hr>
+-->
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Islam-alshiki" alt="Islam-alshiki" /></a> </p>
 
